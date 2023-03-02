@@ -1,0 +1,91 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 375px;
+    margin: 0 auto;
+    display: block;
+}
+
+.logo{
+    height: 127px;
+    margin-bottom: 0;   
+}
+
+header .border {
+    border-bottom: 1px solid #C6C6C6;
+    margin-top: 0;
+}
+.flex-box{
+    display: flex;
+    align-items: center;
+    padding-left: 4px;
+}
+section .avatar{
+    height: 34px;
+    width: 34px;
+    border-radius: 100%;
+}
+
+
+section .user{
+    display: flex;
+    margin-bottom: 5px;
+    margin-left: 10px
+}
+
+.title,
+.likes{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    
+}
+
+.sub-title{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+
+section .section-post{
+    width: 375px;
+    height: 375px;
+    padding-top: 11px;
+}
+
+footer .flex{
+    display: flex;
+    grid-gap: 13px;
+}
+
+footer .icon{
+    height: 23px;
+    width: 22px;
+}
+
+footer{
+    padding: 21px 1px;
+}
+
+.likes{
+    padding-top: 5px;
+}
+
+
+.title,
+.sub-title,
+.comment,
+.likes{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+footer .bold{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+}
