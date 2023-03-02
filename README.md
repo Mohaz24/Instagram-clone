@@ -4,7 +4,7 @@
 # co7304a9189dd4d1995a97dbf
 
 The website link:
-[link](https://elaborate-bublanina-4a5cf4.netlify.app/)
+[https://elaborate-bublanina-4a5cf4.netlify.app/](https://elaborate-bublanina-4a5cf4.netlify.app/)
 ```
 $ npm install
 $ npm start
